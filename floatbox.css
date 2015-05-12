@@ -1,0 +1,21 @@
+.mini{
+	width: 200px;
+	float: left;
+}
+
+.left{
+	float: left;
+	width: 300px;
+	padding: 10px;
+	
+}
+
+section{
+	overflow: auto;
+	background-color: gray;
+	border: dashed;
+}
+
+.clear{
+	clear: both;
+}

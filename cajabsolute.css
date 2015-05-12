@@ -1,0 +1,24 @@
+.cajanormal{
+	width: 100%;
+	background-size: cover;
+	background-image: url("http://fc07.deviantart.net/fs70/f/2013/174/3/e/recycled_texture_background_by_sandeep_m-d6aeau9.jpg");
+}
+
+.foto{
+	width: 100%;
+}
+
+.container{
+	position: relative;
+	overflow: hidden;
+}
+
+.absolute{
+	position: absolute;
+	top:0px;
+	margin-top: 250px;
+}
+
+.absolute:hover .container{
+	margin-top: 200px;
+}
